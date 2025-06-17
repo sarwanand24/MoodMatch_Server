@@ -15,4 +15,4 @@ pip install -r requirements.txt
 npm install
 
 # Step 4: Start the Node.js server (adjust the path if needed)
-node src/server.js
+node src/app.js
